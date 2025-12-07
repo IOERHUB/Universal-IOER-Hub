@@ -4,7 +4,7 @@
 -- Version: 3.2
 
 -- the stuff for preperation
-local key = "NEW_IOERHUB" -- put youre key in here
+local key = "IOERHUBVERSION" -- put youre key in here
 
 local keylink = "https://pastebin.com/aREubBkB" -- put your key link here
 
@@ -12,7 +12,7 @@ local nameofthescript = "Universal IOER Hub" --put your script name here. leave 
 
 local whoisitmadeby = "By IOER Group" -- put your name here
 
-local thenoteofthekey = "Link Keys: https://pastebin.com/aREubBkB" --note you add here. leave blank to not have a note.
+local thenoteofthekey = "Link Auto Copied To Your Clipboard!, Check Your Clipboard" --note you add here. leave blank to not have a note.
 
 
 -- Instances:
