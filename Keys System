@@ -6,7 +6,7 @@
 -- the stuff for preperation
 local key = "UPDATE2025" -- put youre key in here
 
-local keylink = "https://pastebin.com/aREubBkB" -- put your key link here
+local keylink = "https://pastebin.com/raw/aREubBkB" -- put your key link here
 
 local nameofthescript = "Universal IOER Hub" --put your script name here. leave blank too leave blank ig
 
