@@ -4,7 +4,7 @@
 -- Version: 3.2
 
 -- the stuff for preperation
-local key = "NEWUPDATE" -- put youre key in here
+local key = "RELEASE" -- put youre key in here
 
 local keylink = "https://pastebin.com/raw/aREubBkB" -- put your key link here
 
