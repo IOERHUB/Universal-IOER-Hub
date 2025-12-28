@@ -6,13 +6,13 @@
 -- the stuff for preperation
 local key = "" -- put youre key in here
 
-local keylink = "https://pastebin.com/raw/aREubBkB" -- put your key link here
+local keylink = "IOER HUB NOW NO KEYLESS" -- put your key link here
 
 local nameofthescript = "Universal IOER Hub" --put your script name here. leave blank too leave blank ig
 
 local whoisitmadeby = "By IOER Group" -- put your name here
 
-local thenoteofthekey = "Link Auto Copied To Your Clipboard!, Check Your Clipboard" --note you add here. leave blank to not have a note.
+local thenoteofthekey = "Click Check Key, Free IOER HUB" --note you add here. leave blank to not have a note.
 
 
 -- Instances:
