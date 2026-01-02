@@ -97,7 +97,7 @@ TextButton.MouseButton1Click:Connect(function()
 	if KeyTextbox.Text == key then
 		TextButton.Text = "Correct Key!"
 		task.wait(3)
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/IOERHUB/CHOOSE/refs/heads/main/IOERHUB%20CHOOSE"))() -- insert script on this line
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/IOERHUB/Wrong/refs/heads/main/Version"))() -- insert script on this line
 		ScreenGui:Destroy()
 	else
 		TextButton.Text = "Wrong Key!"
